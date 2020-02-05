@@ -13,3 +13,11 @@ p {
   ul {
     line-height: 40px;
   }
+
+  body{
+      background-color: green;
+  }
+  strong{
+      color:red;
+     
+  }
